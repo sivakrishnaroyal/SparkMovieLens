@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="714c3e51-9956-41cf-9fef-0c9a83df738a" name="Default Changelist" comment="" />
+    <list default="true" id="714c3e51-9956-41cf-9fef-0c9a83df738a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/movies.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/ratings.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/users.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$473831a3f2da06554585$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$473831a3f2da06554585.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$473831a3f2da06554585.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0b5fb6e90737154f304d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0b5fb6e90737154f304d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0b5fb6e90737154f304d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$460ea298f6dda8d69cb1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$460ea298f6dda8d69cb1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$460ea298f6dda8d69cb1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$733719f30e8a7b34be74$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$733719f30e8a7b34be74.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$733719f30e8a7b34be74.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$91ea9f1fc5fcfafd4858$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$91ea9f1fc5fcfafd4858.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$91ea9f1fc5fcfafd4858.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$abc5091d2952eeec9879$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$abc5091d2952eeec9879.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$abc5091d2952eeec9879.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d22d8be1e0fcacf58369$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d22d8be1e0fcacf58369.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d22d8be1e0fcacf58369.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$feaf65216380b6edf014$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$feaf65216380b6edf014.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$feaf65216380b6edf014.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/update/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/update/update_cache_2.11/output" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -23,25 +57,81 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DemoSpark" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/movielens/tasks/TopMovies.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="78">
+              <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
+              <folding>
+                <element signature="e#29#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/movielens/tasks/Movies.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+              <folding>
+                <element signature="e#29#48#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/movielens/tasks/Movies.scala">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/com/movielens/tasks/RatingDataSpec.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-              <folding>
-                <element signature="e#29#48#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/com/movielens/tasks/MovieDataSpec.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="18" column="61" lean-forward="true" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/com/movielens/tasks/SparkContextSetup.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -81,6 +171,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/movielens/tasks/Ratings.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/movielens/tasks/Movies.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/movielens/tasks/TopMovies.scala" />
+        <option value="$PROJECT_DIR$/project/project/plugins.sbt" />
       </list>
     </option>
   </component>
@@ -96,7 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -121,14 +211,22 @@
               <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
               <item name="DemoSpark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DemoSpark" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
               <item name="DemoSpark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -136,7 +234,7 @@
               <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
               <item name="DemoSpark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="tasks" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -146,19 +244,27 @@
               <item name="DemoSpark" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DemoSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-2.11" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597792507321" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/target" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597814403599" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Learning/AsosTest" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -215,6 +321,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scala Console" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true">
+      <module name="MovieLensTest" />
+      <setting name="vmparams4" value="-Djline.terminal=NONE" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="consoleArgs" value="-usejavacp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MovieDataSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
       <module name="MovieLensTest" />
       <setting name="path" value="com.movielens.tasks.MovieDataSpec" />
@@ -249,39 +364,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RatingDataSpec.Checking the rating field in pair RDD tuple for Float Type" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <module name="MovieLensTest" />
-      <setting name="path" value="com.movielens.tasks.RatingDataSpec" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="showProgressMessages" value="true" />
-      <setting name="useSbt" value="false" />
-      <setting name="useUiWithSbt" value="false" />
-      <envs />
-      <setting name="testKind" value="Test name" />
-      <setting name="path" value="com.movielens.tasks.RatingDataSpec" />
-      <setting name="testName" value="Checking the rating field in pair RDD tuple for Float Type" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Movies" />
       <item itemvalue="Application.Ratings" />
       <item itemvalue="Application.TopMovies" />
+      <item itemvalue="Scala Console.Scala Console" />
       <item itemvalue="ScalaTest.MovieDataSpec" />
       <item itemvalue="ScalaTest.RatingDataSpec" />
-      <item itemvalue="ScalaTest.RatingDataSpec.Checking the rating field in pair RDD tuple for Float Type" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Movies" />
         <item itemvalue="Application.TopMovies" />
         <item itemvalue="Application.Ratings" />
+        <item itemvalue="Scala Console.Scala Console" />
         <item itemvalue="ScalaTest.RatingDataSpec" />
-        <item itemvalue="ScalaTest.RatingDataSpec.Checking the rating field in pair RDD tuple for Float Type" />
       </list>
     </recent_temporary>
   </component>
@@ -332,6 +429,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="3195073097164" />
         <entry key="$PROJECT_DIR$/build.sbt" value="452444373" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="15629310" />
       </map>
@@ -384,8 +482,39 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2631579" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="SBT Execute" side_tool="true" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="0" sideWeight="0.49959514" weight="0.5239787" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49959514" weight="0.3179396" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50040483" side_tool="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.4979757" weight="0.330373" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32874015" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="sbt" order="2" weight="0.32955465" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
@@ -408,14 +537,14 @@
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="sbt" order="2" />
+      <window_info anchor="right" id="sbt" order="2" weight="0.32955465" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/Demo1.scala" />
@@ -427,75 +556,65 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/MovieRank.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Common/package.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Common/package.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Common/SparkCommon.scala" />
+    <entry file="file://$PROJECT_DIR$/../MovieLens/src/main/scala/Ratings.scala" />
+    <entry file="file://$PROJECT_DIR$/Resources/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TopMovies.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Movies.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Ratings.scala" />
+    <entry file="file://$PROJECT_DIR$/.gitignore.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Common/SparkCommon.scala">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="-10123">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/build.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../MovieLens/src/main/scala/Ratings.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/movielens/tasks/Ratings.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="85">
+          <caret line="37" column="3" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#29#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/project/project/plugins.sbt" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/movielens/tasks/TopMovies.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="78">
+          <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
+          <folding>
+            <element signature="e#29#68#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/TopMovies.scala">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-488">
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Movies.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/movielens/tasks/Movies.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#29#48#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Ratings.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/com/movielens/tasks/RatingDataSpec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -503,9 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="18" column="61" lean-forward="true" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
-          <folding>
-            <element signature="e#30#75#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -516,43 +632,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/movielens/tasks/TopMovies.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/movielens/tasks/RatingDataSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="57" column="57" selection-start-line="57" selection-start-column="57" selection-end-line="57" selection-end-column="57" />
-          <folding>
-            <element signature="e#29#68#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/movielens/tasks/Ratings.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31">
-          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
-          <folding>
-            <element signature="e#29#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/movielens/tasks/Movies.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="e#29#48#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
